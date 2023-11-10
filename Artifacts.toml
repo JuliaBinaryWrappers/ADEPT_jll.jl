@@ -1,0 +1,99 @@
+[[ADEPT]]
+arch = "x86_64"
+cuda = "11.4"
+git-tree-sha1 = "652bf845715bc25a2bfc8e21d70df2f7580b222f"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[ADEPT.download]]
+    sha256 = "7d75e80c275a0877afe6aa67b4e96b9e563a11ed99df1cd57e8e453c7637d8c9"
+    url = "https://github.com/JuliaBinaryWrappers/ADEPT_jll.jl/releases/download/ADEPT-v1.0.0+0/ADEPT.v1.0.0.x86_64-linux-gnu-cuda+11.4.tar.gz"
+[[ADEPT]]
+arch = "x86_64"
+cuda = "11.5"
+git-tree-sha1 = "b571014722900b0f798d68642d6fbd8ea8c2e2af"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[ADEPT.download]]
+    sha256 = "01a42789b514f6c7c4b35443fcb128dca5578f9b969c8b0fa19eff4a16442abe"
+    url = "https://github.com/JuliaBinaryWrappers/ADEPT_jll.jl/releases/download/ADEPT-v1.0.0+0/ADEPT.v1.0.0.x86_64-linux-gnu-cuda+11.5.tar.gz"
+[[ADEPT]]
+arch = "x86_64"
+cuda = "11.6"
+git-tree-sha1 = "8ca42204655cfd4814ee9ea4a3fa35a1fd2f6bf9"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[ADEPT.download]]
+    sha256 = "ac7a9d4c3be0697702a7b03a257db1b826b493f42525f561178f93a6fc22d484"
+    url = "https://github.com/JuliaBinaryWrappers/ADEPT_jll.jl/releases/download/ADEPT-v1.0.0+0/ADEPT.v1.0.0.x86_64-linux-gnu-cuda+11.6.tar.gz"
+[[ADEPT]]
+arch = "x86_64"
+cuda = "11.7"
+git-tree-sha1 = "908b07dc2c2ee05000c92820f141c63b95a1ab9f"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[ADEPT.download]]
+    sha256 = "c39bd44f05a244e25914215bc7bfcb36abe3fad9bc7b0f7b267a7331a4bee79e"
+    url = "https://github.com/JuliaBinaryWrappers/ADEPT_jll.jl/releases/download/ADEPT-v1.0.0+0/ADEPT.v1.0.0.x86_64-linux-gnu-cuda+11.7.tar.gz"
+[[ADEPT]]
+arch = "x86_64"
+cuda = "11.8"
+git-tree-sha1 = "6d34e7893963092fa181a798b0d1cb4a215aaf97"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[ADEPT.download]]
+    sha256 = "395529088f337e37d68efbbe6066a150a00c2ff7819bcda86f3f2a563255439c"
+    url = "https://github.com/JuliaBinaryWrappers/ADEPT_jll.jl/releases/download/ADEPT-v1.0.0+0/ADEPT.v1.0.0.x86_64-linux-gnu-cuda+11.8.tar.gz"
+[[ADEPT]]
+arch = "x86_64"
+cuda = "12.0"
+git-tree-sha1 = "407ee4f2317bca241c3a91f737d26241a393f597"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[ADEPT.download]]
+    sha256 = "92c60155a28ecf46dd19f54a2705fdaa3a2da40783b8218999e7ae05e269cc0b"
+    url = "https://github.com/JuliaBinaryWrappers/ADEPT_jll.jl/releases/download/ADEPT-v1.0.0+0/ADEPT.v1.0.0.x86_64-linux-gnu-cuda+12.0.tar.gz"
+[[ADEPT]]
+arch = "x86_64"
+cuda = "12.1"
+git-tree-sha1 = "6fe9ba51a14376aa8355d861a7d61373239c29bc"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[ADEPT.download]]
+    sha256 = "7984845c5e7701af3aaa69c8c8b419f4730c5a0069190f32785338a2c7f2ea28"
+    url = "https://github.com/JuliaBinaryWrappers/ADEPT_jll.jl/releases/download/ADEPT-v1.0.0+0/ADEPT.v1.0.0.x86_64-linux-gnu-cuda+12.1.tar.gz"
+[[ADEPT]]
+arch = "x86_64"
+cuda = "12.2"
+git-tree-sha1 = "37530af082e1f3b314fa9e2f2aa21ec39a082355"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[ADEPT.download]]
+    sha256 = "2433562cddd8461e2da0cc3b4beadb762b3c78cd8321afee9ba0ccf5fca3bc00"
+    url = "https://github.com/JuliaBinaryWrappers/ADEPT_jll.jl/releases/download/ADEPT-v1.0.0+0/ADEPT.v1.0.0.x86_64-linux-gnu-cuda+12.2.tar.gz"
+[[ADEPT]]
+arch = "x86_64"
+cuda = "12.3"
+git-tree-sha1 = "5c49df05a18aa5b3063785da5530f3287278fffd"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[ADEPT.download]]
+    sha256 = "9156b0b3cfb9cd3a1b68d4c9c4469ef1df7ad8389c4b5fd8fa79a2612cab8e8b"
+    url = "https://github.com/JuliaBinaryWrappers/ADEPT_jll.jl/releases/download/ADEPT-v1.0.0+0/ADEPT.v1.0.0.x86_64-linux-gnu-cuda+12.3.tar.gz"
